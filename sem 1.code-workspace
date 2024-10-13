@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../sem 1"
+		},
+		{
+			"path": "../../images"
+		},
+		{
+			"path": "../../text"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../sem 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project folder"
+	}
+}
